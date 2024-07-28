@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/brevinhpham/Projects/FFT/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/g++  -I/Users/brevinhpham/Projects/FFT/includes -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o CMakeFiles/run.dir/src/main.cpp.o -c /Users/brevinhpham/Projects/FFT/src/main.cpp",
+  "file": "/Users/brevinhpham/Projects/FFT/src/main.cpp",
+  "output": "CMakeFiles/run.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/brevinhpham/Projects/FFT/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/g++  -I/Users/brevinhpham/Projects/FFT/includes -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o CMakeFiles/test.dir/tests/test.cpp.o -c /Users/brevinhpham/Projects/FFT/tests/test.cpp",
+  "file": "/Users/brevinhpham/Projects/FFT/tests/test.cpp",
+  "output": "CMakeFiles/test.dir/tests/test.cpp.o"
+}
+]
