@@ -1,0 +1,13 @@
+*.o
+*.so
+*.dll
+.clang
+#Build dirs
+/build/
+/out/
+# OS gens
+.DS_Store
+Thumbs.db
+# googletest
+/googletest
+    
